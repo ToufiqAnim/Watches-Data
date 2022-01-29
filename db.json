@@ -2,7 +2,7 @@
     "watches":[
    {
         "id":"1",
-       "rating":4.8
+       "rating":4.8,
         "name":"BULOVA Classic",
         "price":379,
         "image":"https://swisseagle.wpengine.com/wp-content/uploads/2013/06/product4-1.jpg",
@@ -11,7 +11,7 @@
     },
     {
         "id":"2",
-        "rating":4.2
+        "rating":4.2,
         "name":"THE MAVERICK",
         "price":449,
         "image":"https://i.ibb.co/n33WkCr/Maverick-Camo-Blue-Pack-Shot-1140x1140-3.jpg",
@@ -20,7 +20,7 @@
     },
     {
         "id":"3",
-        "rating":4.5
+        "rating":4.5,
         "name":"BULOVA Hack",
         "price":249,
         "image":"https://swisseagle.wpengine.com/wp-content/uploads/2013/06/product9-1.jpg",
@@ -29,7 +29,7 @@
     },
     {
         "id":"4",
-        "rating":4.3
+        "rating":4.3,
         "name":"BULOVA Marine Star",
         "price":349,
         "image":"https://2qndqt12n4813dp6kr3fdr92-wpengine.netdna-ssl.com/wp-content/uploads/2013/06/product8-1.jpg",
@@ -38,7 +38,7 @@
     },
     {
         "id":"5",
-        "rating":4.7
+        "rating":4.7,
         "name":"PRAGUE SKELETON AUTOMATIC DELUXE",
         "price":425,
         "image":"https://i.ibb.co/FgwrbYW/Prague-Deluxe-Rose-Gold-Packshot-1140x1140.png",
@@ -47,7 +47,7 @@
     },
     {
         "id":"6",
-        "rating":4.7
+        "rating":4.7,
         "name":"BULOVA Oceanographe",
         "price":379,
         "image":"https://swisseagle.wpengine.com/wp-content/uploads/2013/06/product14-1.jpg",
@@ -59,7 +59,7 @@
 "special":[
     {
         "id":"1",
-        "rating":4.5
+        "rating":4.5,
         "name":"BULOVA 50TH ANNIVERSARY LUNAR PILOT LE",
         "price":399,
         "image":"https://www.watchshopping.com/media/catalog/product/cache/9a36f8c5e65cbc0643cf5a691473fad7/B/u/Bulova-Classic-98A177.jpg"
@@ -67,7 +67,7 @@
     },
     {
         "id":"2",
-        "rating":4
+        "rating":4,
         "name":"BULOVA CRYSTAL",
         "price":559,
         "image":"https://www.watchshopping.com/media/catalog/product/cache/9a36f8c5e65cbc0643cf5a691473fad7/B/u/Bulova-MarineStar-98A227.jpg"
@@ -75,7 +75,7 @@
     },
     {
         "id":"3",
-        "rating":3.5
+        "rating":3.5,
         "name":"BULOVA SURVEYOR",
         "price":650,
         "image":"https://www.watchshopping.com/media/catalog/product/cache/9a36f8c5e65cbc0643cf5a691473fad7/B/u/Bulova-MarineStar-98B350.jpg"
@@ -83,7 +83,7 @@
     },
     {
         "id":"4",
-        "rating":4.5
+        "rating":4.5,
         "name":"BULOVA SUTTON",
         "price":275,
         "image":"https://www.watchshopping.com/media/catalog/product/cache/9a36f8c5e65cbc0643cf5a691473fad7/B/u/Bulova-MarineStar-98A225.jpg"
